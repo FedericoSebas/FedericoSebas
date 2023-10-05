@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my **CERTERO-Tiny-Smart-Car** that uses Arduino and Python and in my **IoT-Market** Web Page
 - 👯 I’m looking to collaborate on anyone that likes the world of **MCUs** and **Web Developing**
-- 💬 Ask me about any of my project and i will be grateful of answer you
+- 💬 Ask me about any of my projects and i will be grateful of answer you
 - 📫 How to reach me: **federicosebastianbusiness@gmail.com**
 
 ## 👪 Connect with me
