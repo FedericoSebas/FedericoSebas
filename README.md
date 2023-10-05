@@ -5,7 +5,7 @@
 - 💬 Ask me about any of my projects and i will be grateful of answer you
 - 📫 How to reach me: **federicosebastianbusiness@gmail.com**
 
-## 👪 Connect with me
+## Connect with me 👪
 <p align="left">
 <a href="https://www.linkedin.com/in/federico-arce-32166123a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="FedericoArce" height="30" width="40" /></a>
 <a href="https://www.instagram.com/fedesebaw/" target="blank"><img align="center" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="leandrobenitez" height="40" width="40" /></a>
@@ -13,7 +13,7 @@
 <a href="https://www.youtube.com/@fedesebaw" target="blank"><img align="center" src="https://seeklogo.com/images/Y/youtube-icon-logo-521820CDD7-seeklogo.com.png" alt="youtube" height="30" width="40" /></a>
 </p>
 
-## ⚡Skills
+## Skills⚡
 
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
